@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Citation metadata is provisional until the related paper and DOI are confirmed."
+title: "Parallel DSMC Solver with MPI"
+type: software
+authors:
+  - family-names: "Roohi"
+    given-names: "Ehsan"
+repository-code: "https://github.com/Ehsan-Roohi/roohi-parallel-dsmc-mpi"
+license: "MIT"
+date-released: "2026-08-27"
+version: "0.1.0"
